@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Hack With DeeSick
 description: My infosec & hacking journey.
+show_downloads: false
